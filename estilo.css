@@ -1,0 +1,40 @@
+body{
+	background-image: url(imagens/fundo.png);
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+	width: 900px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#conteudo{
+	background: white;
+	padding: 10px;
+}
+
+#menu{
+	background: #A7A69A;
+	padding: 15px;
+	
+}
+#formulario{
+	background: white;
+}
+
+a {
+	color: white;
+	text-decoration: none; font-weight: bold;
+	padding: 15px;
+}
+
+#rodape{
+	text-align: center;
+}
+
+#casaimg{
+	border: 10px solid #c3c3ae
+}
+
+
